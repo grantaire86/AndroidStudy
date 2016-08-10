@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/grantaire86/grantaire86" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/grantaire86/GeoQuiz" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\DW7-08\AndroidStudioProjects\012\Ch01" />
+    <option name="cloneParentDir" value="C:\Users\DW7-08\AndroidStudioProjects\012\Ch01\MyApplication2" />
   </component>
 </application>
